@@ -24,4 +24,4 @@ npm run dev
 L'Afrique est souvent absente des outils de dataviz accessibles. Africa Pulse rend la donnée africaine visible et exploitable — pour les étudiants, chercheurs, journalistes ou décideurs.
 
 ---
-Fait par [Gaïus Chanis HONTONWAKOU](https://htkchanis.netlify.app)
+Fait par [Gaïus Chanis HONTONWAKOU](https://chanishg.netlify.app)
